@@ -1,2 +1,2 @@
 # pr2-work
-GAMF programing to course
+GAMF programming to course
